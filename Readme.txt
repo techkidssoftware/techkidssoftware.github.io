@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+Theme Name: BizPage
+Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
